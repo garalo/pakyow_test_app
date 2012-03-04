@@ -1,0 +1,59 @@
+#main {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#login_form {
+/*    margin-top: 10%;*/
+}
+
+#login_links {
+/*    position: fixed;*/
+}
+
+
+
+#new_user_link a {
+    height: 30px;
+    width: 100px;
+    /*background-color: grey;*/
+    text-decoration: none;
+}
+
+#new_user_form {
+    margin-top: 10%;
+}
+
+.descriptive_field {
+    text-align: center;
+    opacity: 0.5;
+}
+
+.hide {
+    display: none;
+}
+
+#login_button {
+    
+    text-align: center;
+    padding: 0;
+    margin-left: 10px;
+    overflow: hidden;
+}
+
+.show {
+    display: inline;
+}
+
+#password_field {
+    display: none;
+}
+
+#password_confirmation_field {
+    display: none;
+}
+
+input {
+    margin: 5px;
+}
+

@@ -1,0 +1,10 @@
+*.class
+*.pyc
+*.pyo
+*.DS_Store
+*.project
+logs/*
+*.class
+*.pyc
+*.pyo
+
